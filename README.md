@@ -52,7 +52,7 @@ await sock.checkWhatsApp(target)
 ## SendMessage Documentation
 
 ### Status Group Message V2
-Send group status with version 2 
+Send group status with version's 2 
 
 ```javascript
 await sock.sendMessage(target, {
